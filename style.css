@@ -1,0 +1,22 @@
+.div_menu {
+    background-color: black;
+    line-height: 2em;
+    margin-bottom: 1.5em;
+    font-size: 20px;
+}
+
+.menu {
+    color: white;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
